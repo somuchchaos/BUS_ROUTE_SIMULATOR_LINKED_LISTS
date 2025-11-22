@@ -1,0 +1,7 @@
+id,name,passengers,dist_to_next,time_to_next
+1,Central Station,12,2.500000,6.000000
+2,Market Road,5,1.200000,3.000000
+3,Library,3,0.900000,2.000000
+4,College,8,1.800000,4.000000
+5,Park,2,2.000000,5.000000
+6,Dehradun,4,234.900000,4.500000
